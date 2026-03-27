@@ -2,7 +2,9 @@
 title: "Personal Activity Monitoring Analysis"
 author: "Tynisha Niles"
 date: "2026-03-23"
-output: html_document
+output: 
+  html_document:
+  keep_md: true 
 ---
 
 ```{r setup, include=FALSE}
